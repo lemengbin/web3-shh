@@ -7,9 +7,9 @@
     "license": "LGPL-3.0",
     "main": "src/index.js",
     "dependencies": {
-        "web3-core": "1.0.0-beta.36",
-        "web3-core-method": "1.0.0-beta.36",
-        "web3-core-subscriptions": "1.0.0-beta.36",
-        "web3-net": "1.0.0-beta.36"
+        "web3-core": "git+https://github.com/lemengbin/web3-core.git#1.0.0-beta.36",
+        "web3-core-method": "git+https://github.com/lemengbin/web3-core-method.git#1.0.0-beta.36",
+        "web3-core-subscriptions": "git+https://github.com/lemengbin/web3-core-subscriptions.git#1.0.0-beta.36",
+        "web3-net": "git+https://github.com/lemengbin/web3-net.git#1.0.0-beta.36"
     }
 }
